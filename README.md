@@ -1,15 +1,16 @@
-# todo_list
+A simple and elegant To-Do List app built using Flutter.
+Easily manage your daily tasks with a clean UI and smooth user experience.
 
-A new Flutter project.
+✨ Features
+Add, edit, and delete tasks
 
-## Getting Started
+Mark tasks as completed
 
-This project is a starting point for a Flutter application.
+Organize tasks with due dates
 
-A few resources to get you started if this is your first Flutter project:
+Persistent storage using local database
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Responsive design for all screen sizes
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
